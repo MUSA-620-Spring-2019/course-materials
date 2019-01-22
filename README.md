@@ -12,7 +12,7 @@ Contact Nick at nicholas.adam.hand@gmail.com
 
 ### Office hours
 
-- Tentatively Mondays from 6pm to 9pm.
+- Tentatively Mondays from 6pm to 8pm.
 - Remotely, through Skype or Google Hangouts
 
 ### Course Websites
