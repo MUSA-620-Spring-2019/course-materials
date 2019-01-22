@@ -29,7 +29,7 @@ This course will provide students with the knowledge and tools to turn data into
 1. **Exploratory Data Science**: Students will be introduced to the main tools needed to get started analyzing and visualizing data using Python
 1. **Geospatial Data Science**: Building on the previous set of tools, this module will teach students how to work with and extract insights from geospatial datasets using a range of modern Python toolkits
 1. **Getting and Storing Data**: Students will learn how to collect new data through web scraping and APIs and store these datasets locally for efficient retrieval and analysis.
-1. **Geospatial Data Science in the Wild**: Armed with the necessary data science tools, students will be introduced to a range of advanced analytic techniques using a number of innovative examples from modern researchers. 
+1. **Geospatial Data Science in the Wild**: Armed with the necessary data science tools, students will be introduced to a range of advanced analytic techniques using a number of innovative examples from modern researchers.
 1. **From Exploration to Storytelling**: The final module will teach students to present their analysis results using web-based formats to transform their insights into interactive stories.
 
 ## Format
@@ -55,3 +55,23 @@ This course relies on use of Python and various related packages and for geospat
 ## Academic Integrity
 
 Students are expected to be familiar with and comply with Penn’s Code of Academic Integrity, which is available in the Pennbook, or online at https://catalog.upenn.edu/pennbook/code-of-academic-integrity.
+
+#### SCHEDULE
+
+| Class #      | Date   | Topic                                                                                             | Homework\*  |
+| ------------ | ------ | ------------------------------------------------------------------------------------------------- | ----------- |
+| Week 1       | Jan 24 | [Exploratory Data Science in Python](https://github.com/MUSA-620-Spring-2019/week-1)              |             |
+| Week 2       | Jan 31 | [Exploratory Data Science and Data Visualization](https://github.com/MUSA-620-Spring-2019/week-2) | Assign HW 1 |
+| Week 3       | Feb 7  |                                                                                                   |             |
+| Week 4       | Feb 14 |                                                                                                   |             |
+| Week 5       | Feb 21 |                                                                                                   |             |
+| Week 6       | Feb 28 |                                                                                                   |             |
+| Spring Break |
+| Week 7       | Mar 14 |                                                                                                   |             |
+| Week 8       | Mar 21 |                                                                                                   |             |
+| Week 9       | Mar 28 |                                                                                                   |             |
+| Week 10      | Apr 4  |                                                                                                   |             |
+| Week 11      | Apr 11 |                                                                                                   |             |
+| Week 12      | Apr 18 |                                                                                                   |             |
+| Week 13      | Apr 25 |                                                                                                   |             |
+| Week 14      | May 2  |                                                                                                   |             |
