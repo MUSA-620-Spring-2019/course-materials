@@ -1,6 +1,4 @@
-# MUSA 620 - Data Wrangling and Data Visualization
-
-## University of Pennsylvania, School of Design
+# MUSA 620 - Data Wrangling and Data Visualization<br>University of Pennsylvania, School of Design
 
 ## Scheduling
 
