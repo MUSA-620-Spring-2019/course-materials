@@ -36,7 +36,7 @@ The course will be conducted in weekly sessions devoted to lectures, interactive
 
 ## Assignments
 
-There is one required final project at the end of the semester. Each of the five modules will cover several weeks and there will be one homework assigned per module. Assignments will be assigned at the start of each module and due at the start of the following module.
+There is one required final project at the end of the semester. Each of the five modules will cover several weeks and there will be roughly one homework assigned per module. Assignments will be assigned at the start of each module and due at the start of the following module.
 
 For the final project, students will replicate the pipeline approach on a dataset (or datasets) of their choosing. The final deliverable will be a web-based data visualization and accompanying description including a summary of the results and the methods used in each step of the process (collection, storage, analysis and visualization).
 
@@ -56,10 +56,10 @@ Students are expected to be familiar with and comply with Penn’s Code of Acade
 
 ## Schedule
 
-| Class #      | Date   | Topic                                                                                             | Homework\*  |
+| Class #      | Date   | Topic                                                                                             | Homework    |
 | ------------ | ------ | ------------------------------------------------------------------------------------------------- | ----------- |
-| Week 1       | Jan 24 | [Exploratory Data Science in Python](https://github.com/MUSA-620-Spring-2019/week-1)              |             |
-| Week 2       | Jan 31 | [Exploratory Data Science and Data Visualization](https://github.com/MUSA-620-Spring-2019/week-2) | Assign HW 1 |
+| Week 1       | Jan 24 | [Exploratory Data Science in Python](https://github.com/MUSA-620-Spring-2019/week-1)              | Assign HW 1 |
+| Week 2       | Jan 31 | [Exploratory Data Science and Data Visualization](https://github.com/MUSA-620-Spring-2019/week-2) |             |
 | Week 3       | Feb 7  |                                                                                                   |             |
 | Week 4       | Feb 14 |                                                                                                   |             |
 | Week 5       | Feb 21 |                                                                                                   |             |
