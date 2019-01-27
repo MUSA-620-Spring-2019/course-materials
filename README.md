@@ -12,13 +12,13 @@ Contact Nick at nicholas.adam.hand@gmail.com
 
 ### Office hours
 
-- Tentatively Mondays from 6pm to 8pm.
-- Remotely, through Skype or Google Hangouts
+- Mondays from 6pm to 8pm.
+- Remotely Google Hangouts
 
 ### Course Websites
 
 - GitHub: https://github.com/MUSA-620-Spring-2019
-- Piazza: TBD
+- Piazza: https://piazza.com/upenn/spring2019/musa620/home
 
 ## Course Description
 
