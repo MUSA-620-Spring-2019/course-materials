@@ -10,7 +10,7 @@ This repository contains general course materials, including:
   - [Installing Anaconda]()
   - [Managing environments and installing packages]()
   - [Frequently encountered problems]()
-- [A environment.yml]() file specifying the Python packages needed in this course
+- [A environment.yml](environment.yml) file specifying the Python packages needed in this course
 
 ## A couple of notes:
 
