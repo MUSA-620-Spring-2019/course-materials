@@ -1,0 +1,17 @@
+name: musa-620
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.6
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - geopandas
+  - cartopy
+  - altair
+  - vega_datasets
+  - notebook
+  - vega
+  - seaborn
