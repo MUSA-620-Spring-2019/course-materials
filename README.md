@@ -7,14 +7,14 @@ This repository contains general course materials, including:
 - [Course Syllabus](syllabus.md)
 - [Package Cheat Sheets](./cheatsheets)
 - [A Guide to Anaconda](anaconda-guide), including:
-  - [Installing Anaconda]()
-  - [Managing environments and installing packages]()
-  - [Frequently encountered problems]()
+  - [Installing Anaconda](anaconda-guide/installing-anaconda.md)
+  - [Managing environments and installing packages](anaconda-guide/managing-packages.md)
+  - [Frequently encountered problems](anaconda-guide/common-issues.md)
 - [A environment.yml](environment.yml) file specifying the Python packages needed in this course
 
 ## A couple of notes:
 
-- Throughout the course, the [environment.yml]() file in this repository will be updated to include all necessary packages.
+- Throughout the course, the [environment.yml](environment.yml) file in this repository will be updated to include all necessary packages.
 - The [syllabus](syllabus.md) in this repository will also be updated with links to each week's materials and assignments.
 
 ## Recommended Python tutorials
