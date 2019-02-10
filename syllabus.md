@@ -56,20 +56,20 @@ Students are expected to be familiar with and comply with Penn’s Code of Acade
 
 ## Schedule
 
-| Class #      | Date   | Topic                                                                                             | Homework    |
-| ------------ | ------ | ------------------------------------------------------------------------------------------------- | ----------- |
-| Week 1       | Jan 24 | [Exploratory Data Science in Python](https://github.com/MUSA-620-Spring-2019/week-1)              | Assign HW 1 |
-| Week 2       | Jan 31 | [Exploratory Data Science and Data Visualization](https://github.com/MUSA-620-Spring-2019/week-2) |             |
-| Week 3       | Feb 7  |                                                                                                   |             |
-| Week 4       | Feb 14 |                                                                                                   |             |
-| Week 5       | Feb 21 |                                                                                                   |             |
-| Week 6       | Feb 28 |                                                                                                   |             |
+| Class #      | Date   | Topic                                                                                    | Homework                                                            |
+| ------------ | ------ | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| Week 1       | Jan 23 | [Exploratory Data Science in Python](https://github.com/MUSA-620-Spring-2019/week-1)     | [Assign HW 1](https://github.com/MUSA-620-Spring-2019/assignment-1) |
+| Week 2       | Jan 30 | [Data Visualization Fundamentals](https://github.com/MUSA-620-Spring-2019/week-2)        | [Assign HW 2](https://github.com/MUSA-620-Spring-2019/assignment-2) |
+| Week 3       | Feb 6  | [Geospatial Data Analysis and GeoPandas](https://github.com/MUSA-620-Spring-2019/week-3) |                                                                     |
+| Week 4       | Feb 13 |                                                                                          |                                                                     |
+| Week 5       | Feb 20 |                                                                                          |                                                                     |
+| Week 6       | Feb 27 |                                                                                          |                                                                     |
 | Spring Break |
-| Week 7       | Mar 14 |                                                                                                   |             |
-| Week 8       | Mar 21 |                                                                                                   |             |
-| Week 9       | Mar 28 |                                                                                                   |             |
-| Week 10      | Apr 4  |                                                                                                   |             |
-| Week 11      | Apr 11 |                                                                                                   |             |
-| Week 12      | Apr 18 |                                                                                                   |             |
-| Week 13      | Apr 25 |                                                                                                   |             |
-| Week 14      | May 2  |                                                                                                   |             |
+| Week 7       | Mar 13 |                                                                                          |                                                                     |
+| Week 8       | Mar 20 |                                                                                          |                                                                     |
+| Week 9       | Mar 27 |                                                                                          |                                                                     |
+| Week 10      | Apr 3  |                                                                                          |                                                                     |
+| Week 11      | Apr 10 |                                                                                          |                                                                     |
+| Week 12      | Apr 17 |                                                                                          |                                                                     |
+| Week 13      | Apr 24 |                                                                                          |                                                                     |
+| Week 14      | May 1  |                                                                                          |                                                                     |
