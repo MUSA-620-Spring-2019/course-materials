@@ -2,12 +2,12 @@ name: musa-620
 channels:
   - defaults
   - conda-forge
+  - pyviz
 dependencies:
   - python=3.6
   - numpy
   - pandas
   - matplotlib
-  - jupyter
   - geopandas
   - cartopy
   - altair
@@ -15,3 +15,9 @@ dependencies:
   - notebook
   - vega
   - seaborn
+  - hvplot
+  - geoviews
+  - requests
+  - pip:
+      - carto
+      - pyrestcli
