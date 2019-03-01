@@ -18,6 +18,10 @@ dependencies:
   - hvplot
   - geoviews
   - requests
+  - census
   - pip:
       - carto
       - pyrestcli
+      - census_area
+      - tweepy
+      - textblob
