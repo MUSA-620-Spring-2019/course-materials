@@ -8,12 +8,12 @@ Wednesdays from 9am to 12pm in Meyerson Hall, room B13.
 
 ### Instructor
 
-Contact Nick at nicholas.adam.hand@gmail.com
+Contact Nick at nicholas.adam.hand@gmail.com or nhand@design.upenn.edu
 
 ### Office hours
 
 - Mondays from 6pm to 8pm.
-- Remotely Google Hangouts
+- Remotely via Google Hangouts
 
 ### Course Websites
 
@@ -40,7 +40,7 @@ There is one required final project at the end of the semester. Each of the five
 
 For the final project, students will replicate the pipeline approach on a dataset (or datasets) of their choosing. The final deliverable will be a web-based data visualization and accompanying description including a summary of the results and the methods used in each step of the process (collection, storage, analysis and visualization).
 
-For more details on the final project, see [its repository](
+For more details on the final project, see [its repository](https://github.com/MUSA-620-Spring-2019/final-project).
 
 ## Grading
 
