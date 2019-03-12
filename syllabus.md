@@ -65,9 +65,9 @@ Students are expected to be familiar with and comply with Penn’s Code of Acade
 | Week 3       | Feb 6  | [Geospatial Data Analysis and GeoPandas](https://github.com/MUSA-620-Spring-2019/week-3)                        |                                                                     |
 | Week 4       | Feb 13 | [More Interactive Data Viz (hvplot), Getting Started with APIs](https://github.com/MUSA-620-Spring-2019/week-4) | [Assign HW 3](https://github.com/MUSA-620-Spring-2019/assignment-3) |
 | Snow Day     | Feb 20 |      ❄️☃️                                                                                                           |                                                                     |
-| Week 5       | Feb 27 |  [Getting Data I: Census and Twitter APIs](https://github.com/MUSA-620-Spring-2019/week-5) | [Assign HW 4 (Optional)](https://github.com/MUSA-620-Spring-2019/assignment-4) |                                                                                                    |                                                                     |
+| Week 5       | Feb 27 |  [Getting Data Part 1: Census and Twitter APIs](https://github.com/MUSA-620-Spring-2019/week-5) | [Assign HW 4 (Optional)](https://github.com/MUSA-620-Spring-2019/assignment-4) |                                                                                                    |                                                                     |
 | Spring Break |
-| Week 6       | Mar 13 |   [Getting Data II: Web Scraping](https://github.com/MUSA-620-Spring-2019/week-6)  |    |
+| Week 6       | Mar 13 |   [Getting Data Part 2: Web Scraping](https://github.com/MUSA-620-Spring-2019/week-6)  |    |
 | Week 7       | Mar 20 |   [Big(ger) Data and Databases](https://github.com/MUSA-620-Spring-2019/week-7) | [Assign HW 5](https://github.com/MUSA-620-Spring-2019/assignment-5) |
 | Week 8       | Mar 27 |   [Geo Data Science in the Wild: Clustering](https://github.com/MUSA-620-Spring-2019/week-8)    |       |
 | Week 9      | Apr 3  |   [Geo Data Science in the Wild: pySAL](https://github.com/MUSA-620-Spring-2019/week-9)     | |
