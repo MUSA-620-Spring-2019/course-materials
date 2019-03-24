@@ -3,6 +3,7 @@ channels:
   - defaults
   - conda-forge
   - pyviz
+  - clinicalgraphics
 dependencies:
   - python=3.6
   - numpy
@@ -19,6 +20,17 @@ dependencies:
   - geoviews
   - requests
   - census
+  - selenium
+  - beautifulsoup4
+  - requests
+  - geckodriver
+  - selenium-chromedriver
+  - imageio
+  - datashader
+  - dask
+  - fastparquet
+  - python-snappy
+  - pyarrow
   - pip:
       - carto
       - pyrestcli
