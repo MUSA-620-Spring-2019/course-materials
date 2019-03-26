@@ -69,8 +69,8 @@ Students are expected to be familiar with and comply with Penn’s Code of Acade
 | Spring Break |
 | Week 6       | Mar 13 |   [Getting Data Part 2: Web Scraping](https://github.com/MUSA-620-Spring-2019/week-6)  |    |
 | Week 7       | Mar 20 |   [Analyzing and Visualizing Large Datasets](https://github.com/MUSA-620-Spring-2019/week-7) | [Assign HW 5](https://github.com/MUSA-620-Spring-2019/assignment-5) |
-| Week 8       | Mar 27 |   [Geo Data Science in the Wild: Clustering](https://github.com/MUSA-620-Spring-2019/week-8)    |       |
-| Week 9      | Apr 3  |   [Geo Data Science in the Wild: pySAL](https://github.com/MUSA-620-Spring-2019/week-9)     | |
+| Week 8       | Mar 27 |   [Geo Data Science in the Wild: OpenStreetMap and Urban Networks](https://github.com/MUSA-620-Spring-2019/week-8)    |       |
+| Week 9      | Apr 3  |   [Geo Data Science in the Wild: Clustering and PySAL](https://github.com/MUSA-620-Spring-2019/week-9)     | |
 | Week 10      | Apr 10 | [From Notebooks to the Web: Observable, Interactive Web Map, Leaflet](https://github.com/MUSA-620-Spring-2019/week-10)    |  [Assign HW 6](https://github.com/MUSA-620-Spring-2019/assignment-6)  |
 | Week 11      | Apr 17 | [Advanced Data Visualization and D3](https://github.com/MUSA-620-Spring-2019/week-11)       |        |
 | Week 12      | Apr 24 | [Interactive Dashboards and Web Servers](https://github.com/MUSA-620-Spring-2019/week-12)  |      |
