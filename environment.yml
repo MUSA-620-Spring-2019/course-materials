@@ -1,9 +1,11 @@
 name: musa-620
 channels:
-  - defaults
   - conda-forge
+  - defaults
   - pyviz
   - clinicalgraphics
+  - udst
+  - plotly
 dependencies:
   - python=3.6
   - numpy
@@ -14,7 +16,7 @@ dependencies:
   - altair
   - vega_datasets
   - notebook
-  - vega
+  - vega=1.3
   - seaborn
   - hvplot
   - geoviews
@@ -31,6 +33,13 @@ dependencies:
   - fastparquet
   - python-snappy
   - pyarrow
+  - pandana
+  - osmnx
+  - scikit-learn
+  - folium
+  - pip
+  - flask
+  - dash
   - pip:
       - carto
       - pyrestcli
