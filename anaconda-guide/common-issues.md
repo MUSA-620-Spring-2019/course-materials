@@ -98,4 +98,17 @@ When importing `geopandas`, you can sometimes receive errors about missing libra
 
 The best and easiest thing to do to try to solve it is use the steps above to create a fresh environment. 
 
+#### Numpy errors
+
+If you receive the following error:
+
+```
+ImportError: Something is wrong with the numpy installation. While importing we detected an older version of numpy in ['/Users/nhand/anaconda3/envs/musa-620/lib/python3.6/site-packages/numpy']. One method of fixing this is to repeatedly uninstall numpy until none is found, then reinstall this version.
+```
+
+Make sure you are running the latest conda (see Step 1 above), and then from the Anaconda Prompt (Windows) or Terminal (Mac), run:
+
+```
+conda install --force-reinstall --clobber numpy
+```
 
