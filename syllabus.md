@@ -73,7 +73,7 @@ Students are expected to be familiar with and comply with Penn’s Code of Acade
 | Week 9      | Apr 3  |   [Geo Data Science in the Wild: Clustering Analysis in Python](https://github.com/MUSA-620-Spring-2019/week-9)     | |
 | Week 10      | Apr 10 | [From Notebooks to the Web: Observable, Interactive Web Map, Leaflet](https://github.com/MUSA-620-Spring-2019/week-10)    |  [Assign HW 6](https://github.com/MUSA-620-Spring-2019/assignment-6)  |
 | Week 11      | Apr 17 | [Advanced Data Visualization, D3, and Github Pages](https://github.com/MUSA-620-Spring-2019/week-11)       |        |
-| Week 12      | Apr 24 | [Interactive Dashboards and Web Servers](https://github.com/MUSA-620-Spring-2019/week-12)  | Proposal for final project due     |
+| Week 12      | Apr 24 | [Web Servers, Interactive Web Apps, and Dashboards](https://github.com/MUSA-620-Spring-2019/week-12)  | Proposal for final project due     |
 | Week 13      | May 1  | [Dashboards II and Work on Final Project](https://github.com/MUSA-620-Spring-2019/week-13) |      |
 |              | May 13 | | Final Project Due |
 
