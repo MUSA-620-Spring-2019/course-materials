@@ -74,7 +74,7 @@ Students are expected to be familiar with and comply with Penn’s Code of Acade
 | Week 10      | Apr 10 | [From Notebooks to the Web: Observable, Interactive Web Map, Leaflet](https://github.com/MUSA-620-Spring-2019/week-10)    |  [Assign HW 6](https://github.com/MUSA-620-Spring-2019/assignment-6)  |
 | Week 11      | Apr 17 | [Advanced Data Visualization, D3, and Github Pages](https://github.com/MUSA-620-Spring-2019/week-11)       |        |
 | Week 12      | Apr 24 | [Web Servers, Interactive Web Apps, and Dashboards](https://github.com/MUSA-620-Spring-2019/week-12)  | Proposal for final project due     |
-| Week 13      | May 1  | [Dashboards II and Work on Final Project](https://github.com/MUSA-620-Spring-2019/week-13) |      |
+| Week 13      | May 1  | [Dashboarding with Panel and the PyViz Ecosystem](https://github.com/MUSA-620-Spring-2019/week-13) |      |
 |              | May 13 | | Final Project Due |
 
 **Assignment dates of homework are tentative and subject to change**
