@@ -3,7 +3,6 @@ channels:
   - conda-forge
   - defaults
   - pyviz
-  - clinicalgraphics
   - udst
   - plotly
 dependencies:
@@ -26,7 +25,7 @@ dependencies:
   - beautifulsoup4
   - requests
   - geckodriver
-  - selenium-chromedriver
+  - chromedriver-binary
   - imageio
   - datashader
   - dask
@@ -40,6 +39,7 @@ dependencies:
   - pip
   - flask
   - dash
+  - panel
   - pip:
       - carto
       - pyrestcli
